@@ -6,33 +6,31 @@
 
 🌟<I>I am dedicated to creating innovative and efficient solutions that meet the evolving needs of users and businesses both locally and Internationally in both Web Development and Mobile Application.</I>
 
-## 🌐 Socials
+🌐 Socials
 <div align="center">
-  <a href="https://behance.net/abbysarah1" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=black" alt="Behance" height="30"/>
-  </a>
-  <a href="https://instagram.com/abby._.menda" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=black" alt="Instagram" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/abby-sarah-6739a92ba" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://pinterest.com/mendarrr" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=black" alt="Pinterest" height="30"/>
-  </a>
-  <a href="https://quora.com/profile/Abby-Sarah-7" target="_blank">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=black" alt="Quora" height="30"/>
-  </a>
-  <a href="https://stackoverflow.com/users/25320734" target="_blank">
+
+  
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=black" alt="Stack Overflow" height="30"/>
   </a>
-  <a href="https://twitch.tv/mendarrrrrr" target="_blank">
+  
+  
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=black" alt="Twitch" height="30"/>
   </a>
-  <a href="https://twitter.com/mendarrrr" target="_blank">
+  
+  
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=black" alt="Twitter" height="30"/>
   </a>
 </div>
+
 
 
 <h3 align="left">💻Tech Bag:</h3>
@@ -91,23 +89,26 @@
   </div>
 
 
-
-
-
-</p>
+<br><br>
 
 
 
 # 📊 GitHub Stats :
 <div align="center">
+    <b>Bill OverTime</b>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillKevinMaina&theme=algolia&hide_border=true" alt="GitHub Streak Stats" style="width:1900px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillKevinMaina&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:1900px;"/>
 </div>
+
+<br><br>
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=BillKevinMaina&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
 </div>
+
+
+<br><br>
 
 
 <a href="https://visitcount.itsvg.in">
