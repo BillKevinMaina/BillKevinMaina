@@ -1,10 +1,10 @@
 ![welcomeee](https://github.com/mendarrr/mendarrr/assets/161917456/52802a87-c278-4c69-988a-486b1d7e4f00)
 # 💫About Me :
-👋Hey there, I'm Abby. I'm a skilled Full Stack Developer with a proven track record of creating robust and user-friendly applications. My expertise spans both front-end and back-end, ensuring a comprehensive approach to web development.
+👋Hello my name is Bill Kevin Maina, I am  a Junior Developer and a student at strathmore persuing a Degree in Informatics and Computer Science, i have a certificate in MIT (Website Development and Mobile Application Development). 
 
-🚀I have extensive knowledge in both React and JavaScript paired with my exceptional skills which aids in creating high level and proficient websites.
+🚀I have specialized in <b>Python, HTML, MySQL, Django and currently specializing in more</b>.Furthermore, I have specialized in <b>Kotlin and JetPack Compose</b> for Android Application Development.
 
-🌟I am dedicated to creating innovative and efficient solutions that meet the evolving needs of users and businesses alike.
+🌟<I>I am dedicated to creating innovative and efficient solutions that meet the evolving needs of users and businesses both locally and Internationally in both Web Development and Mobile Application.</I>
 
 ## 🌐 Socials
 <div align="center">
