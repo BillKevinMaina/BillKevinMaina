@@ -34,43 +34,84 @@
   </a>
 </div>
 
-## 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack"/>
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+
+<h3 align="left">💻Tech Bag:</h3>
+<p align="left">
+ <div>
+   <h4>Android Development</h4>
+   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt =" android" width="50" height="50"/>
+           </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50" height="50"/>
+           </a>
+   <h4>Frameworks: </h4>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width ="50" height="50" />
+           </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width ="50" height="50"/>
+           </a>
+ </div>
+
+<div>
+  <h4>Languages: </h4>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
 </div>
+<div>
+<h4>Graphic Design: </h4>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/Liam-Reeves/Liam-Reeves/assets/137655583/1471597c-3271-4f6c-bd63-4678feb5cd66" alt="photoshop" width="50" height="50"/> </a>
+
+   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="50" height="50"/> </a>
+
+
+</div>
+
+  <div>
+    <h4>Version Control: </h4>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" />
+          </a>
+
+  </div>
+  <div>
+  <h4>Databases: </h4>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
+
+  </div>
+  <div>
+    <h4>Operating Systems: </h4>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a>
+    <a href="https://www.microsoft.com/software-download/windows11"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"  width="50" height="50" />
+</a>
+  </div>
+
+
+
+
+
+</p>
+
+
 
 # 📊 GitHub Stats :
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width:1900px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mendarrr&theme=algolia&hide_border=true" alt="GitHub Streak Stats" style="width:1900px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendarrr&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:1900px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BillKevinMaina&theme=algolia&hide_border=true" alt="GitHub Streak Stats" style="width:1900px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BillKevinMaina&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width:1900px;"/>
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=mendarrr&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
+  <img src="https://github-trophies.vercel.app/?username=BillKevinMaina&theme=algolia&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" style="width:100%;"/>
 </div>
 
-## 🌟 3D Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mendarrr&bg_color=00203d&color=00a1e6&line=0aadff&point=050505&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=mendarrr&label=Profile%20Views&color=1&icon=6&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=BillKevinMaina&label=Profile%20Views&color=1&icon=6&pretty=true" />
 </a>
+
+
