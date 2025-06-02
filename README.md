@@ -1,6 +1,6 @@
 ![welcomeee](https://github.com/mendarrr/mendarrr/assets/161917456/52802a87-c278-4c69-988a-486b1d7e4f00)
 # 💫About Me :
-👋Hello my name is Bill Kevin Maina, I am  a Junior Developer and a student at strathmore persuing a Degree in Informatics and Computer Science, i have a certificate in MIT (Website Development and Mobile Application Development). 
+👋Hello my name is Bill Kevin Maina, I am  a Junior Developer and a student at Strathmore University persuing a Degree in Informatics and Computer Science, i have a certificate in MIT (Website Development and Mobile Application Development). 
 
 🚀I have specialized in <b>Python, HTML, MySQL, Django and currently specializing in more</b>.Furthermore, I have specialized in <b>Kotlin and JetPack Compose</b> for Android Application Development.
 
